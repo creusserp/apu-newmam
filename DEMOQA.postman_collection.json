@@ -201,9 +201,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{base_url}}/Account/v1/User/{{uuid}}",
+							"raw": "{{demoqa_url}}/Account/v1/User/{{uuid}}",
 							"host": [
-								"{{base_url}}"
+								"{{demoqa_url}}"
 							],
 							"path": [
 								"Account",
